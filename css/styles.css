@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 0;
+  line-height: 2;
+  color: #3A3845;
+}
+
+h2 {
+  color: #826F66;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4rem;
+  color: #826F66;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: #FFFBE9;
+}
+
+p {
+  color: #CEAB93;
+  font-size: 1.5rem;
+  width: 35%;
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 50%;
+  color: #3A3845;
+}
+
+li {
+  color: #CEAB93;
+  font-size: 1.5rem;
+  width: 40%;
+  margin: 60px auto;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  line-height: 1;
+}
+
+.topdiv {
+  background-color: #CEAB93;
+  padding: 25px 0;
+}
+
+.middiv {
+  background-color: #FFFBE9;
+  padding: 25px;
+}
+
+.bottomdiv {
+  background-color: #3A3845;
+  padding: 25px 0 10px 0;
+}
+
+.code-img {
+  width: 10%;
+  position: absolute;
+  top: 5%;
+  left: 10%;
+}
+
+.personal-img {
+  width: 20%;
+}
+
+.p-logo {
+  width: 250px;
+}
+
+.p-anchor {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #826F66;
+}
+
+.p-anchor:hover {
+  color: #E3CAA5;
+}
+
+.footer-anchor {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: #E3CAA5;
+  font-size: 1.3rem;
+  margin: 30px;
+}
+
+.footer-anchor:hover {
+  color: #826F66;
+}
